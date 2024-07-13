@@ -6,3 +6,7 @@ function clickMe() {
     var average = (a + b) / 2
     alert(average)
 }
+
+function showMessage(message) {
+    alert(message)
+}

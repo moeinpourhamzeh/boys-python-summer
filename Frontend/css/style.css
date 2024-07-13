@@ -1,0 +1,14 @@
+    .container {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+    
+    .my-button {
+        padding: 10px 20px;
+        border-radius: 15px;
+        background-color: red;
+        color: white;
+    }

@@ -12,3 +12,15 @@
         background-color: red;
         color: white;
     }
+    
+    .flex {
+        display: flex;
+    }
+    
+    .gap-5 {
+        gap: 5px;
+    }
+    
+    li {
+        list-style-type: none
+    }
